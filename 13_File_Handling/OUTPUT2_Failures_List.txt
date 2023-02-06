@@ -1,0 +1,11 @@
+                                 FAILURES LIST                                          
+Count	Student_ID	Sub1_Marks	Sub2_Marks	Sub3_Marks	Sub4_Marks	Sub5_Marks	Sub6_Marks	Total_Marks
+1		20		93		65		92		89		32		69
+2		10		94		43		19		92		83		87
+3		8		36		36		20		95		83		84
+4		5		93		30		82		52		38		57
+5		19		64		69		40		5		95		63
+6		13		36		93		5		54		65		69
+7		3		20		55		58		62		77		45
+8		15		86		52		6		37		90		35
+9		26		45		35		50		92		31		50

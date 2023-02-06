@@ -1,0 +1,23 @@
+bit: Subject
+0: Kannada
+1: English
+2: Maths
+3: Science
+4: Social
+5: Computer Science
+ 
+
+struct result
+{
+
+bool kannada;
+bool english;
+bool maths;
+bool science;
+bool social;
+bool cs;
+
+int studentId;
+struct result next;
+
+}
